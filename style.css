@@ -9,17 +9,17 @@
 
 @font-face {
   font-family: "Shantell Sans";
-  src: url("assests/ShantellSans-Regular.ttf") format("truetype");
+  src: url("assets/ShantellSans-Regular.ttf") format("truetype");
   font-weight: 400;
 }
 @font-face {
   font-family: "Shantell Sans";
-  src: url("assests/ShantellSans-Medium.ttf") format("truetype");
+  src: url("assets/ShantellSans-Medium.ttf") format("truetype");
   font-weight: 500;
 }
 @font-face {
   font-family: "Shantell Sans";
-  src: url("assests/ShantellSans-Bold.ttf") format("truetype");
+  src: url("assets/ShantellSans-Bold.ttf") format("truetype");
   font-weight: 700;
 }
 
@@ -233,3 +233,4 @@ button {
     font-size: 20px;
   }
 }
+
